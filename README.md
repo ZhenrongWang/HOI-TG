@@ -94,6 +94,7 @@ To evaluate HOITG on [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/) or [
 ```
 bash test.sh
 ```
+Download the pre-trained BEHAVE checkpoint from [GoogleDrive](https://drive.google.com/file/d/1Rglc90VBsg2d_Mh0IAAP87HSnIY4Dcfw/view?usp=drive_link).
 
 ### Results
 Here, we show the impressive performance of HOITG. HOITG has **powerful performance** and **superior reasoning speed**. The specific results can be seen in the figure below.
